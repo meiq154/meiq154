@@ -1,6 +1,4 @@
 # Hongjie Shi
-
-## About Me
 I am a student at Dalian University of Technology, China.
 ## Affiliation
 Dalian University of Technology (DUT)  
