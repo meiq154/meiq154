@@ -1,5 +1,5 @@
-# Full Name
-Hongjie Shi
+# Hongjie Shi
+
 ## About Me
 I am a student at Dalian University of Technology, China.
 ## Affiliation
